@@ -16,11 +16,6 @@
 
 ---
 
-```bash
-┌──(shubham㉿dev)-[~]
-└─$ whoami
-```
-
 ```json
 {
   "name"        : "Shubham Kumar",
@@ -54,7 +49,7 @@
 **Database & Cloud**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **Tools**
 
@@ -105,49 +100,3 @@
 - 📊 Turns raw financial data into actionable advice
 
 ---
-
-## `> cat ./github-stats`
-
-<div align="center">
-
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhamkumar000&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar000&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shubhamkumar000&theme=matrix&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
-
-</div>
-
----
-
-## `> ping shubham`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════╗
-║   Let's build something awesome!    ║
-║   DM me anytime — I don't bite 🤝  ║
-╚══════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham583/)
-
-</div>
-
----
-
-<div align="center">
-
-```
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-*— Shubham Kumar, Full Stack Developer*
-
-</div>
