@@ -1,17 +1,6 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗  ║
-║   ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║  ║
-║   ███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║  ║
-║   ╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║  ║
-║   ███████║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║  ║
-║   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=200&section=header&text=Shubham%20Kumar&fontSize=60&fontColor=000000&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descColor=000000&animation=fadeIn)
 
 ### `> Full Stack Developer _ MERN Specialist _ Builder`
 
@@ -128,6 +117,36 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shubhamkumar000&theme=matrix&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
 </div>
+
+---
+
+## `> ping shubham`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+║   Let's build something awesome!    ║
+║   DM me anytime — I don't bite 🤝  ║
+╚══════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham583/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
 
 *— Shubham Kumar, Full Stack Developer*
 
