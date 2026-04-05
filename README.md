@@ -129,36 +129,6 @@
 
 </div>
 
----
-
-## `> ping shubham`
-
-<div align="center">
-
-```
-╔══════════════════════════════════════╗
-║   Let's build something awesome!    ║
-║   DM me anytime — I don't bite 🤝  ║
-╚══════════════════════════════════════╝
-```
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham583/)
-
-</div>
-
----
-
-<div align="center">
-
-```
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
 *— Shubham Kumar, Full Stack Developer*
 
 </div>
