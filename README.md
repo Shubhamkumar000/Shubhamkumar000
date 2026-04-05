@@ -1,112 +1,164 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:000000&height=200&section=header&text=Shubham%20Kumar&fontSize=55&fontColor=00f5ff&animation=fadeIn&fontAlignY=55&stroke=00f5ff&strokeWidth=1&desc=%3E_%20Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlign=50&descAlignY=75&descColor=89f7fe&descSize=15" />
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=500&color=00F5FF&background=000000&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+Shubham+Kumar;%24+stack+%E2%86%92+MERN+%7C+SQL+%7C+C%2B%2B;%24+building+%E2%86%92+Real-world+projects+%F0%9F%9A%80;%24+goal+%E2%86%92+Crack+top+tech+roles+%F0%9F%94%A5;%24+status+%E2%86%92+Always+learning+%2B+building" />
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║   ███████╗██╗  ██╗██╗   ██╗██████╗ ██╗  ██╗ █████╗ ███╗   ███╗  ║
+║   ██╔════╝██║  ██║██║   ██║██╔══██╗██║  ██║██╔══██╗████╗ ████║  ║
+║   ███████╗███████║██║   ██║██████╔╝███████║███████║██╔████╔██║  ║
+║   ╚════██║██╔══██║██║   ██║██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║  ║
+║   ███████║██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║  ║
+║   ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### `> Full Stack Developer _ MERN Specialist _ Builder`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Hello%2C+World!+I'm+Shubham+Kumar;Full+Stack+Developer+%7C+MERN+Stack;Building+things+that+matter...;Open+to+opportunities+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham583/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubhamkumar000)
+[![Profile Views](https://komarev.com/ghpvc/?username=Shubhamkumar000&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS)](https://github.com/Shubhamkumar000)
+
 </div>
 
 ---
 
-## 🧠 ~/about_me.json
+```bash
+┌──(shubham㉿dev)-[~]
+└─$ whoami
+```
 
 ```json
 {
-  "name": "Shubham Kumar",
-  "role": "Full Stack Developer",
-  "tech_stack": ["MERN", "MySQL", "REST APIs"],
-  "languages": ["JavaScript", "C++", "SQL"],
-  "current_focus": ["DSA", "Backend Scaling", "AI Integrations"],
-  "projects": ["Blinkit Clone", "MediEquip", "FinAdvisor"],
-  "goal": "Build impactful real-world products 🚀",
-  "status": "⚡ Actively building & improving"
+  "name"        : "Shubham Kumar",
+  "role"        : "Full Stack Developer",
+  "stack"       : ["MongoDB", "Express.js", "React", "Node.js"],
+  "building"    : "Scalable web apps with real-world impact",
+  "learning"    : ["DevOps", "Cloud", "AI Integration"],
+  "collaborate" : "Full-stack & backend projects",
+  "fun_fact"    : "I debug at 2am and call it productive",
+  "status"      : "⚡ open to opportunities"
 }
 ```
 
 ---
 
-## ⚡ ~/skills
+## `> ls ./tech-stack`
 
-### 💻 Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,cpp,c,html,css,sql" />
-</div>
+**Frontend**
 
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,materialui,vite" />
-</div>
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🔧 Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</div>
+**Backend**
 
-### 🛠 Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🚀 ~/projects
+## `> cat ./projects.log`
+
+```
+[PROJECT_01] ──────────────────────────────────────── STATUS: DEPLOYED ✅
+```
 
 ### 🛒 Blinkit Clone
-- Full MERN stack app
-- Real-time cart & product management
-- Clean UI with responsive design
+> Full-stack grocery delivery app powered by MERN
+
+- ⚡ Real-time cart & product management
+- 🎨 Clean UI with fully responsive design
+- 🔧 Built with MongoDB • Express • React • Node.js
+
+---
+
+```
+[PROJECT_02] ──────────────────────────────────────── STATUS: SHIPPED 🏆
+```
 
 ### 🏥 MediEquip
-- Hackathon project
-- Helps users locate nearby medical equipment
-- Focus on real-world impact
+> Hackathon project with real-world healthcare impact
 
-### 💰 FinAdvisor (Ongoing)
-- AI-powered financial assistant
-- Bank statement analysis + insights
-- Privacy-focused data handling
+- 📍 Helps users locate nearby medical equipment
+- 🌍 Focused on accessibility & real-world problem solving
+- 🏆 Built under hackathon pressure — shipped anyway
 
 ---
 
-## 📊 ~/github_stats
+```
+[PROJECT_03] ──────────────────────────────────────── STATUS: LIVE 🤖
+```
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shubhamkumar&show_icons=true&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://streak-stats.demolab.com/?user=Shubhamkumar&theme=tokyonight&hide_border=true" />
-</div>
+### 💰 FinAdvisor
+> AI-powered financial assistant
 
----
-
-## 🧩 ~/leetcode
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap" />
-</div>
+- 🤖 Bank statement analysis + smart insights
+- 🔒 Privacy-focused data handling
+- 📊 Turns raw financial data into actionable advice
 
 ---
 
-## 🤝 ~/connect
+## `> cat ./github-stats`
 
 <div align="center">
 
-### 💬 Let’s build something impactful
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhamkumar000&show_icons=true&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar000&layout=compact&theme=matrix&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
 
-&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Gmail-Mail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br/><br/>
-
-"Code. Build. Break. Fix. Repeat."
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubhamkumar000&theme=matrix&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41)
 
 </div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a1a2e,100:000000&height=100&section=footer&stroke=00f5ff&strokeWidth=1&reversal=true" />
+## `> ping shubham`
+
+<div align="center">
+
+```
+╔══════════════════════════════════════╗
+║   Let's build something awesome!    ║
+║   DM me anytime — I don't bite 🤝  ║
+╚══════════════════════════════════════╝
+```
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham583/)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+*— Shubham Kumar, Full Stack Developer*
+
+</div>
